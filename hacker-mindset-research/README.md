@@ -1,6 +1,6 @@
 # Hacker Mindset Research Project
 
-This project aims to explore the various dimensions of the hacker mindset, including motivations, thought processes, and the ethical considerations involved. Through research findings, case studies, and community engagement, we seek to understand how hackers think and operate.
+This project aims to make a books for hacker's mindset and turns awarness in
 
 ## Goals
 - To document hacking techniques and ethical implications.
