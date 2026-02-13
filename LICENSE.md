@@ -43,7 +43,7 @@ Violations may result in:
 
 ### PERMISSION REQUESTS
 For any use beyond personal viewing/discussion, contact:
-**research-permissions@uhito.network**
+**uhitonetwork@gmail.com**
 
 ---
 
