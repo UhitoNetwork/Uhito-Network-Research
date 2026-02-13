@@ -22,7 +22,7 @@ VIOLATIONS: DMCA + Legal Action
 If you see this research copied elsewhere:
 1. Document the URL
 2. Take screenshots
-3. Email: Uhitonetwork@gmail.com
+3. Email: uhitonetwork@gmail.com
 
 ## Report GitHub Abuse
 Users copying/forking to violate license:
