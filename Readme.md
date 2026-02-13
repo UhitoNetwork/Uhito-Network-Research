@@ -68,3 +68,11 @@ This research investigates the psychological, social, and environmental factors 
 
 *Part of Uhito Network's symbolic education initiative*
 *Copyright © 2026 Uhito Network. All rights reserved.*
+
+## 🔁 Uhito Network Lifecycle
+
+This repository is **Step 1: Research** – understanding hacker psychology.
+
+🔍 **[Research](https://github.com/UhitoNetwork/Uhito-Network-Research)** → 📖 [Study](https://github.com/UhitoNetwork/Uhito-Network-Study) → ⚠️ [Awareness](https://github.com/UhitoNetwork/Uhito-Network-Cyber-Man-Awareness) → 🤝 [Volunteer](https://github.com/UhitoNetwork/Uhito-Network-Cyber-Man-Volunteer)
+
+Explore the other steps to see how research becomes action.
