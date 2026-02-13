@@ -55,14 +55,16 @@ This research investigates the psychological, social, and environmental factors 
 4. Propose sustainable solutions for talent redirection
 5. Develop frameworks for national cyber militia models
 
-## 🔗 Navigation Guide
+## Navigation
+- `pages/` – Core research content
+- `investigation/` – Research questions and methodology
+- `case-studies/` – Real and fictional hacker profiles
+- `references.md` – Sources and further reading
 
-This repository uses separate branches for different content types:
+## Status
+![Research in Progress](https://img.shields.io/badge/Status-Research%20in%20Progress-yellow)
 
-| Content | Branch | Direct Link |
-|---------|--------|-------------|
-| **Core Research Pages** | `Pages` | [View all research](https://github.com/UhitoNetwork/Uhito-Network-Research/tree/Pages) |
-| **Investigation Framework** | `Investigation` | [Research questions](https://github.com/UhitoNetwork/Uhito-Network-Research/tree/Investigation) |
-| **Case Studies** | `Case-studies` | [View case studies](https://github.com/UhitoNetwork/Uhito-Network-Research/tree/Case-studies) |
+---
 
-
+*Part of Uhito Network's symbolic education initiative*
+*Copyright © 2026 Uhito Network. All rights reserved.*
