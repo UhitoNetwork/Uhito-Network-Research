@@ -21,21 +21,21 @@ VIOLATIONS: DMCA + Legal Action
 ## Official Certifications Completed
 
 ### Google Career Certificates
-- **Google IT Support Professional Certificate** - IT fundamentals and troubleshooting
-- **Google Cybersecurity Professional Certificate** - Comprehensive security operations
+- **Google IT Support Professional Certificate** – IT fundamentals and troubleshooting
+- **Google Cybersecurity Professional Certificate** – Comprehensive security operations
 
 ### Cisco Networking Academy
-- **Networking Essentials** - Network architecture and protocols
-- **Cybersecurity Essentials** - Security principles and threat protection
-- **Introduction to Cybersecurity** - Foundational security concepts
+- **Networking Essentials** – Network architecture and protocols
+- **Cybersecurity Essentials** – Security principles and threat protection
+- **Introduction to Cybersecurity** – Foundational security concepts
 
 ### Alison Online Education
-- **Cybersecurity - Information Security** - Data protection and risk management
-- **IT - Cybersecurity** - Technical security implementation
+- **Cybersecurity - Information Security** – Data protection and risk management
+- **IT - Cybersecurity** – Technical security implementation
 - Multiple specialized cybersecurity course completions
 
 ### Language Proficiency
-- **EF SET English Certificate** - C2 Proficiency (Highest level)
+- **EF SET English Certificate** – C2 Proficiency (Highest level)
 
 ### Additional Learning
 - Various AI and machine learning courses
@@ -45,10 +45,10 @@ VIOLATIONS: DMCA + Legal Action
 ## Research Methodology
 
 ### Self-Directed Learning Approach
-- **Certification-Based Education** - Structured learning through recognized programs
-- **Practical Skill Application** - Implementing learned concepts in real scenarios
-- **Cross-Platform Integration** - Combining knowledge from multiple educational sources
-- **Continuous Skill Refresh** - Regular updating through new courses and challenges
+- **Certification-Based Education** – Structured learning through recognized programs
+- **Practical Skill Application** – Implementing learned concepts in real scenarios
+- **Cross-Platform Integration** – Combining knowledge from multiple educational sources
+- **Continuous Skill Refresh** – Regular updating through new courses and challenges
 
 ### Research Framework
 1. **Observation Phase**: Analysis of hacker communities and behavioral patterns
@@ -66,16 +66,16 @@ This research represents the integration of:
 ## Skill Development Platforms
 
 ### Hands-On Practice
-- **TryHackMe** - Practical security labs and learning paths
-- **HackTheBox** - Advanced penetration testing challenges
-- **Cybrary** - Professional cybersecurity skill development
-- **CTF Platforms** - Ethical competition and skill testing
+- **TryHackMe** – Practical security labs and learning paths
+- **HackTheBox** – Advanced penetration testing challenges
+- **Cybrary** – Professional cybersecurity skill development
+- **CTF Platforms** – Ethical competition and skill testing
 
 ### Industry Standards Applied
-- **NIST Cybersecurity Framework** - Risk management approach
-- **MITRE ATT&CK Framework** - Adversary behavior analysis
-- **OWASP Security Principles** - Web application protection
-- **ISO 27001 Concepts** - Information security management
+- **NIST Cybersecurity Framework** – Risk management approach
+- **MITRE ATT&CK Framework** – Adversary behavior analysis
+- **OWASP Security Principles** – Web application protection
+- **ISO 27001 Concepts** – Information security management
 
 ## Unique Research Perspective
 
