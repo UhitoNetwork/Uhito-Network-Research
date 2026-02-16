@@ -14,3 +14,12 @@ We envision a world where:
 - **Every government** has access to trustworthy ethical hackers who can contribute to national security and public good.
 
 We see an ecosystem:
+
+
+- Research feeds understanding.
+- Understanding enables guidance.
+- Guidance protects the community.
+- Volunteer work builds experience and records.
+- Experience opens doors to companies and governments.
+
+This is the future we are building – one where everyone wins.
