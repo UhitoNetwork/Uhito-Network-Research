@@ -59,6 +59,7 @@ This research investigates the psychological, social, and environmental factors 
 - `pages/` – Core research content
 - `investigation/` – Research questions and methodology
 - `case-studies/` – Real and fictional hacker profiles
+- `Mission/` – showing our goals on public
 - `references.md` – Sources and further reading
 
 ## Status
