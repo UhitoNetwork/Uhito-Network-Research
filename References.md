@@ -20,9 +20,24 @@ VIOLATIONS: DMCA + Legal Action
 
 ## Official Certifications Completed
 
-### Google Career Certificates
-- **Google IT Support Professional Certificate** – IT fundamentals and troubleshooting
-- **Google Cybersecurity Professional Certificate** – Comprehensive security operations
+### Coursera Certificates
+*(Courses delivered via Coursera)*
+
+**Google Cybersecurity Professional Certificate**
+
+**Google IT Support Professional Certificate**
+
+**NYU Tandon School of Engineering – Introduction to Cyber Security**
+
+**University of London – Cyber Security Fundamentals**
+
+**Macquarie University – Cyber Security: Essentials for Forensics Specialization**
+
+**Macquarie University – Cyber Security: Essentials for Governance, Risk & Compliance Specialization**
+
+**Macquarie University – Cyber Security: Data, Privacy and AI Security Specialization**
+
+📌 *Completed with Requist of the support of financial aid.*
 
 ### Cisco Networking Academy
 - **Networking Essentials** – Network architecture and protocols
